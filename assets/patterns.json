@@ -1,0 +1,242 @@
+{
+  "27": {
+    "name": "Abandoned Baby",
+    "definition": "Abandoned Baby pattern is a reversal pattern defined by a Doji (open equal to close), with gaps on both sides. The Doji must completely gap below or above the previous and next candle."
+  },
+  "28": {
+    "name": "Advance Block",
+    "definition": "Advance Block pattern is a bearish reversal pattern similar to the Three White Soldiers pattern however, the Advance Block pattern alerts traders to the weakness of the upside price action since the close of the second and third candles are significantly less than their highs.It is defined by 3 consecutive candles with higher close, while each candle opens within the body of the previous candle, and each candle shows the weakening of the trend with the longer upper shadows in an uptrend in the 2nd and 3rd candle."
+  },
+  "29": {
+    "name": "Belt-hold",
+    "definition": "A Belt Hold pattern occurs when there is a significant gap up/down in the price and the remaining price action for the timeframe occurs to the opposite direction. Such a formation triggers new positions to be taken in the opposite direction. It is defined by a candle where the open is equal to the high (indicates a sell sentiment) or open equal to the close (indicates a buy sentiment) and no upper shadow (sell sentiment) or lower shadow (buy sentiment)."
+  },
+  "30": {
+    "name": "Breakaway",
+    "definition": "A Breakway pattern indicates a trend running out of steam. When a trend is accelerated by a gap and then the next few candles continue in the direction of the trend with a noticeable slow-down, followed by a close below the previous 3 candles (indicating a sell sentiment) or a close above the previous 3 candles (indicating a buy sentiment), while the gap created by the first candle remains unfilled. Since the initial gap is unfilled and trend is fading, it suggests a reversal.It is defined by a (1) candle followed by a candle which gaps above it (indicates a sell sentiment) or below it (indicates a buy sentiment), (2) followed by 2 candles with higher highs and higher lows (indicates a sell sentiment)  or lower highs and  lower lows (indicates a buy  sentiment), (3) followed by a candle which closes inside the gap created by the 1st and 2nd candle."
+  },
+  "31": {
+    "name": "Closing Marubozu",
+    "definition": "The closing marubozu pattern is a continuation pattern suggesting continuation of the current trend; It is identified by a tall candlestick with an upper shadow but no lower one (indicates a sell sentiment) or a lower shadow with no higher one (indicates a buy sentiment). "
+  },
+  "32": {
+    "name": "Concealing Baby Swallow",
+    "definition": "Concealing Baby Swallow pattern is a bullish reversal pattern. The first 2 candles have no shadows (marubozu candles) and are overlapping each other with the second candle having a lower high and a lower low (indicates a buy sentiment). The high on the 3rd candle trades above the close of the previous candle, and a strong opening gap appears in the last candle. Since the last day closes at a new low (indicates a buy sentiment), then this is the perfect opportunity for traders to cover their positions and drive the price in the opposite direction."
+  },
+  "33": {
+    "name": "Counterattack",
+    "definition": "Counterattack pattern is a reversal pattern and is created when opposite candle bodies have the exact same close price. The first candle body is the same color as the current trend. The second candle body is created by a gap open in the direction of the current trend; By the close of the candle, it has come back to the previous day's close."
+  },
+  "34": {
+    "name": "Dark Cloud Cover",
+    "definition": "The Dark Cloud Cover pattern is a bearish reversal pattern. It is formed when a candle is followed by a gap up and the following candle closes below the midpoint of the previous candle, having a higher high and a higher low (indicates a sell sentiment)."
+  },
+  "35": {
+    "name": "Doji",
+    "definition": "The Doji pattern is a neutral pattern and suggests a tug of war between buyers and sellers.It is formed when a candle has the same open a close price meaning it has no body but only upper and lower shadow. The length of the shadows can vary and as a result of having no body, the candle looks like a cross."
+  },
+  "36": {
+    "name": "Doji Star",
+    "definition": "The Doji Star pattern is a reversal pattern and suggests a trend reversal It is formed when an up candle (indicates a sell sentiment)  or a down candle (indicates a buy sentiment)  is followed by a doji that opens at the previous candle's close . The doji's shadows shouldn't be too long."
+  },
+  "37": {
+    "name": "Dragonfly Doji",
+    "definition": "The Dragonfly Doji pattern is a reversal pattern.It is formed when a doji candle has the open and close at the high of the timeframe. The long lower shadow suggests the supply and demand are nearly equal and that the direction of the current trend is near a major turning point."
+  },
+  "38": {
+    "name": "Engulfing Pattern",
+    "definition": "The Engulfing Pattern is a reversal pattern. It is formed when a small body candle is followed by a candle which completely engulfs the previous candle's body."
+  },
+  "39": {
+    "name": "Evening Doji Star",
+    "definition": "The Evening Doji Star pattern consists of 3 candles which indicate a sell sentiment, similar to the Evening Star pattern. It is formed when an uptrend continues with a large body and the  next candle opens higher, trades in a small range, then closes at its open (which creates a Doji). The next day closes below the midpoint of the body of the first day."
+  },
+  "40": {
+    "name": "Evening Star",
+    "definition": "The Evening Star pattern is a bearish reversal pattern consisting of 3 candles which indicate  a sell sentiment. It is formed when an uptrend continues with a large body followed by a  small body candle gapping up, then a down candle  with a close below the midpoint of the first candle."
+  },
+  "42": {
+    "name": "Gravestone Doji",
+    "definition": "The Gravestone Doji pattern is a reversal patternIt is formed when the opening and closing price of the candle are equal and occur at the low of the timeframe. The long upper shadow of the Doji indicates that the buying pressure was countered by sellers which balanced the supply and demand. "
+  },
+  "43": {
+    "name": "Hammer",
+    "definition": "The Hammer pattern is a reversal pattern suggesting a buy sentiment.It forms when the price moves significantly lower after the open, but succeeds to close well above the intraday low. The formed candlestick looks like a hammer with a long stick. For confirmation purposes, the pattern should form during a down-trend (if formed during an uptrend, it is called a Hanging Man)."
+  },
+  "44": {
+    "name": "Hanging Man",
+    "definition": "The Hanging Man pattern is a reversal pattern suggesting a sell sentiment during an uptrend.It forms when the price moves significantly lower after the open, but succeeds to close well above the intraday low. For confirmation purposes, the pattern should form during an uptrend (if formed during a down-trend, it is called a Hammer)."
+  },
+  "45": {
+    "name": "Harami",
+    "definition": "The Harami pattern is a reversal pattern and consists of 2 candlesticks; a candle that has a small body contained within the range of previous candle; both candles should be opposite in direction. The sentiment is in the direction of the second candle."
+  },
+  "46": {
+    "name": "Harami Cross",
+    "definition": "The Harami Cross pattern is a reversal pattern and it is similar to the Harami pattern; the only difference is it ends with a Doji candle."
+  },
+  "47": {
+    "name": "High-Wave",
+    "definition": "The High-Wave pattern suggests and uncertainty and a lack of consensus on an instrument's value. The high wave candlestick consists of a small body and longer shadows. This pattern may suggest a trend change."
+  },
+  "48": {
+    "name": "Hikkake",
+    "definition": "The Hikkake pattern resembles a three inside up pattern but with no constraints. The Hikkake pattern doesn't require a down trend nor does it matter the direction of the candles as they both are in the three inside up candlestick pattern. The pattern can signal both a continuation of the trend or a reversal which depends on the direction of the breakout (below or above a previous high or low)."
+  },
+  "50": {
+    "name": "Homing Pigeon",
+    "definition": "The Homing Pigeon pattern is a bullish reversal pattern. It is formed when a candle is engulfing the next candle which has a smaller body. Both candles should be in the same direction, of the trend. "
+  },
+  "51": {
+    "name": "Identical Three Crows",
+    "definition": "The Identical Three Crows pattern is a bearish reversal pattern. It suggests a strong trend reversal  It is formed when during a downtrend, 3 candles are formed with a lower high and a lower low (suggesting a sell sentiment) while each candle opens with the previous candle close price."
+  },
+  "52": {
+    "name": "In-Neck",
+    "definition": "The In-Neck pattern is similar to the On-Neck pattern and is a bearish continuation pattern. It is formed when a candle opens below the low of the previous candle (suggesting a sell sentiment). The first candle is in the direction of the downtrend while the following one is not. The 2nd candle closes barely into the body of the previous candle."
+  },
+  "53": {
+    "name": "Inverted Hammer",
+    "definition": "The Inverted Hammer pattern is a reversal pattern. The pattern looks like an upside down version of the hammer candlestick pattern and it is formed when a small body is formed near the bottom of a price range. The upper shadow is no more than two times as long as the body while the lower shadow is small or non-existent."
+  },
+  "54": {
+    "name": "Kicking",
+    "definition": "The Kicking pattern is a reversal pattern. It is identified when a Marubozu candle is formed, followed by reversed Marubozu candle with a gap below or above the previous candle close. The direction sentiment is based on the direction of the second Marubozu. "
+  },
+  "56": {
+    "name": "Ladder Bottom",
+    "definition": "The Ladder Bottom pattern is a bullish reversal patternIt is identified when there are 3 consecutive candles with lower lows and lower highs followed by a candle with an upper shadow; the 4 candles will be followed by a candle opened above the previous candle (in the opposite direction of the downtrend, signaling the reversal)."
+  },
+  "57": {
+    "name": "Long Legged Doji",
+    "definition": "The Long Legged Doji is similar to the Rickshaw Man pattern.It is formed when a candle has long upper and lower shadows, indicating that the price moved up and down significantly before it closed at or near the opening price. The formation indicates indecision and lack of direction in the market which signals a reversal during a trend."
+  },
+  "58": {
+    "name": "Long Line",
+    "definition": "The Long Line pattern indicates a strong force in the current market and is a continuation pattern. The long line pattern is a Marubozu candles which have only a body with no shadows."
+  },
+  "59": {
+    "name": "Marubozu",
+    "definition": "The Marubozu pattern is a continuation pattern. It suggests a very strong directional market movement. It is defined by candle which has no shadows and its open equals the high and the close equals the low (suggests a sell sentiment) or open equals the low and close equals the high (suggests a buy sentiment)."
+  },
+  "61": {
+    "name": "Mat Hold",
+    "definition": "The Mat Hold pattern is a bullish continuation pattern. It suggests a resting area for the current trend before moving forward. It is identified when a long candle is followed by 4 candles: the 1st candle gaps above (in an uptrend) the previous candle while the next two candles have lower lows and lower highs (in an uptrend); the 3rd candle closes above the range of the previous 4 candles."
+  },
+  "60": {
+    "name": "Matching Low",
+    "definition": "The Matching Low pattern is a bullish reversal pattern.It is identified when a long bearish candle is followed by a shorter bearish candle with the same close price; this indicates a support level which is usually confirmed by a higher close price in the next candle."
+  },
+  "49": {
+    "name": "Modified Hikkake",
+    "definition": "The Modified Hikkake is a modification of the basic Hikkake pattern. While the basic Hikkake may signal both a trend reversal or continuation, the modified version signals a trend reversal only. It forms when the preceding bar of an inside bar must close at the top of the range (suggesting a sell sentiment) or the low of the range (suggesting a buy sentiment). The range must be no more than the range of the previous bar. "
+  },
+  "62": {
+    "name": "Morning Doji Star",
+    "definition": "The Morning Doji Star pattern is a bullish reversal pattern.It is identified when a long bearish candle is following by a doji which gaps below the close of the previous candle, followed by bullish candle. If the penetration of the 3rd candle is over 50%, this pattern has much higher success rate."
+  },
+  "63": {
+    "name": "Morning Star",
+    "definition": "The Morning Star pattern is a bullish reversal pattern consisting of 3 candles; 1st candle is in the direction of the trend with small shadows, 2nd candle gaps below (in a downtrend, suggesting a buy sentiment) the previous candle close,"
+  },
+  "64": {
+    "name": "On-Neck",
+    "definition": "The On-Neck pattern is similar to the In-Neck pattern and is a bearish continuation pattern.It is formed when a candle opens below the low of the previous candle and closes at the low of the 1st candle. The first candle is in the direction of the downtrend while the following one is not. The 2nd candle closes barely into the body of the previous candle."
+  },
+  "65": {
+    "name": "Piercing",
+    "definition": "The Piercing pattern is a bullish reversal patternIt is identified when a long bearish candle is followed by a bullish candle which opened below the low of the 1st candle; the 2nd candle closed within the body of the 1st candle however above its midpoint."
+  },
+  "66": {
+    "name": "Rickshaw Man",
+    "definition": "The Rickshaw Man is a reversal pattern. It indicates indecision and lack of direction in the market and when formed during a strong trend, it signals a reversalIt is identified when a doji with a long upper and lower shadows and a body near the middle of the candlestick line is formed during a trend. "
+  },
+  "67": {
+    "name": "Rising-Falling Three Methods",
+    "definition": "The Rising-Falling Three Methods are a trend continuation patterns that may appear during a downtrend and an uptrend.When occurs during an uptrend, it is called the rising three methods while during a downtrend it is called the falling three methods.In spite of its name, The 3 methods pattern consist of at least 5 candlesticks (and more); The first is a long candle is in the direction of the trend, the following 3 candles (or more) are smaller and in the opposite direction (not exceeding the range of the 1st candle), followed by a last candlestick which opens above the previous candle and closed above its close (in an uptrend) or opens below the previous candle and closed below its close  (in a downtrend)."
+  },
+  "68": {
+    "name": "Separating Lines",
+    "definition": "The Separating Lines pattern is a continuation pattern.It is formed when a bullish candle is followed by a bearish candle which opens at the open of the previous candle (in a downtrend) or when a bearish candle is followed by a bullish candle which opens below the open of the previous candle (in an uptrend)."
+  },
+  "69": {
+    "name": "Shooting Star",
+    "definition": "The Shooting Star pattern is a bearish reversal pattern.It is formed when the price gaps over the last candle, trades higher and closes near the close of the previous candle ; it should have a very small or no lower shadow and an upper shadow which is at least twice as long as the body. The Shooting Star pattern looks like the Inverted Hammer pattern which is only different in market sentiment."
+  },
+  "70": {
+    "name": "Short Line",
+    "definition": "The Short Line pattern is a reversal pattern It is identified when a candle has a very small body with no upper or lower shadows. The pattern shows the trading occurred in a small range and may signal a consolidation as well. The longer the candle body is, the stronger the buying or selling pressure is and vice versa. "
+  },
+  "41": {
+    "name": "Side-by-Side White Lines",
+    "definition": "The Side-by-Side White Lines pattern is a continuation pattern indicates a failed attempt to rally the price higher (in a downtrend) or lower (in an uptrend).It is formed when a large body candle is followed by 2 opposite candles which both gap below it (indicates a sell sentiment) or above it (indicates a buy sentiment). The 2 candles should be the same size and open at about the same price."
+  },
+  "71": {
+    "name": "Spinning Top",
+    "definition": "The Spinning Top pattern is a reversal pattern.It is identified when a candle has a small body and long upper and lower shadow which are at least twice as long as the body."
+  },
+  "72": {
+    "name": "Stalled Pattern",
+    "definition": "The Stalled Pattern is a reversal pattern and is also referred as Deliberation PatternIn an uptrend, it is identified when 3 candles are formed, 2nd of which opens near the close of the previous candle and the 3rd candle should be short and may even form an upside gap. There can be even a lower shadow indicating selling.In a downtrend, it is identified when 3 candles are formed, 2nd of which opens near the close of the previous day and the 3rd candle should be short and may even form a downside gap."
+  },
+  "73": {
+    "name": "Stick Sandwich",
+    "definition": "The Stick Sandwich pattern is a bullish reversal pattern.It is identified when 2 bullish candles with no lower shadows surround a bearish candle with no shadows. The closing price of both bullish candles must be equal; it represents an apparent support line which signals the reversal."
+  },
+  "74": {
+    "name": "Takuri",
+    "definition": "The Takuri pattern is a reversal pattern. In a downtrend, it is identified when a candle has a small body and a much longer lower shadow (at least twice) with no (or little) upper shadow which; for an uptrend, it is reversed. The pattern is confirmed by prices closing higher the next candle. This pattern is also called a Dragonfly Doji with a long shadow."
+  },
+  "75": {
+    "name": "Tasuki Gap",
+    "definition": "The Tasuki Gap pattern is a continuation pattern which may occur during both an uptrend and a downtrend. It is formed when 2 candles are gapping in the direction of the trend, while the 3rd candle in opposite direction and cannot close the gap in full. "
+  },
+  "26": {
+    "name": "Three Advancing White Soldiers",
+    "definition": "The Three Advancing White Soldiers (or Three White Soldiers) is a bullish reversal pattern.It is formed by a 3 bullish (or more) consecutive candle with consecutively higher closes. This pattern has a higher success rate if seen after a period of stable price or at a low price region."
+  },
+  "21": {
+    "name": "Three Black Crows",
+    "definition": "The Three Crows pattern is a bearish reversal pattern. It may suggest a panic selling and is identified when price produces 3 consecutive candles with lower highs and lower lows (suggesting a sell sentiment). Each candle should open within the body of the previous candle."
+  },
+  "22": {
+    "name": "Three Inside Up-Down",
+    "definition": "The Three Inside Up-Down pattern is a bullish reversal pattern It is identified when a bullish Harami pattern is formed with a confirming candle as the third day."
+  },
+  "24": {
+    "name": "Three Outside Up-Down",
+    "definition": "The Three Outside Up-Down pattern is a reversal pattern. It is identified when during a downtrend a bearish candle is followed by a bullish one which closes well above the previous one and the 3rd candle is again a bullish candle and closing well over the previous candle close.In an uptrend, a bullish candle is followed by a bearish one which closes below the close of the 1st candle, followed by another bearish candle which closes yet again below the previous candle close."
+  },
+  "25": {
+    "name": "Three Stars In The South",
+    "definition": "The Three Stars In The South pattern is a bullish reversal pattern.  It is identified when during a downtrend, a long bearish candle with a long lower shadow is followed by a smaller version of the previous candle with a lower high and a higher low, followed by a small black Marubozu which opens and closes in the range of the previous candle.Important to note that each price range is engulfed by the previous candle's range."
+  },
+  "23": {
+    "name": "Three-Line Strike",
+    "definition": "The Three-Line Strike pattern is a reversal pattern.It is identified when 3 adjacent candles (higher highs and higher lows or lower highs and lower lows) are followed by a candle in the opposite direction opening below the previous candle and closing above the 1st candle (in a downtrend) or opening above the previous candle and closing below the 1st candle (in an uptrend)."
+  },
+  "76": {
+    "name": "Thrusting",
+    "definition": "The Thrusting pattern is a bearish continuation pattern.It is identified when bearish candle is followed by a bullish candle which opens well below the low of the previous candle and closed into its body, but below its midpoint. This pattern suggests a lack of buyers indicating a continuation of the current down trend."
+  },
+  "77": {
+    "name": "Tristar",
+    "definition": "The Tristar pattern is a reversal pattern. It is identified when 3 consecutive Doji candlesticks appear in a long trend. The pattern marks the beginning of a momentum change."
+  },
+  "20": {
+    "name": "Two Crows",
+    "definition": "The Two Crows pattern is a bearish reversal pattern during an uptrend. It is identified when a gap is created in the 2nd candle, gets filled by the 3rd candle. The quick pull-back suggests a short-term top before the price reverses. The 3rd candle should open inside the body of the 2nd candle and close in the body of the 1st candle."
+  },
+  "78": {
+    "name": "Unique 3 River",
+    "definition": "The Unique 3 River pattern is a bullish reversal pattern.It is identified when a long bearish candle is followed by a bearish Homing Pigeon with a new low, while the 3rd candle is a short bullish candle which is below the previous candle. A new high in the next candle will confirm the reversal."
+  },
+  "79": {
+    "name": "Upside Gap Two Crows",
+    "definition": "The Upside Gap Two Crows pattern is a 3 candle bearish pattern that may occur only during an uptrend. The first candle is a bullish candle followed by a gapped candle with a small bearish body, followed by a 3rd candle which is also a bearish candle and has a bigger body than the previous one yet it does not close the gap."
+  },
+  "80": {
+    "name": "Upside-Downside Gap Three Methods",
+    "definition": "The Upside-Downside Gap Three Methods patterns are a continuation pattern.The bullish pattern has a long bullish candle, followed by another one which gaps over the previous one, followed by a bearish candle the opens below the close of the previous candle (gapping down) and has a low below the close of the 1st candle.The bearish pattern has a long bearish candle, followed by another one which gaps below the previous one, followed by a bullish candle the opens above the close of the previous candle (gapping up) and has a high above the close of the 1st candle."
+  }
+}

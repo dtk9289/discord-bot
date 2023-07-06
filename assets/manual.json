@@ -1,0 +1,42 @@
+{
+  "tech_summary": {
+    "description": "Xem tổng kết kỹ thuật ",
+    "usage": "!tech_summary [symbol1,symbol2,...]",
+    "example": "!tech_summary xauusd,jpyusd"
+  },
+  "sentiment": {
+    "description": "Xem dữ liệu cảm xúc của thị trường",
+    "usage": "!sentiment [symbol1,symbol2,...]",
+    "example": "!sentiment xauusd,jpyusd"
+  },
+  "news": {
+    "description": "Xem tin tức chung về thị trường hoặc của riêng cặp giao dịch.",
+    "usage": "!news [symbol]",
+    "example": "!news eurusd"
+  },
+  "chart": {
+    "description": "Xem biểu đồ giá.",
+    "usage": "!chart [symbol] [timeframe] [quantity]",
+    "example": "!chart xauusd hoặc !chart xauusd 1HOUR"
+  },
+  "alert": {
+    "description": "Đăng ký nhận thông báo khi giá phù hợp điều kiện.",
+    "usage": "!alert [symbol] [condition]",
+    "example": "!alert xauusd <=1950"
+  },
+  "timeframes": {
+    "description": "Xem danh sách timeframes được hỗ trợ trong chart.",
+    "usage": "!timeframes",
+    "example": ""
+  },
+  "symbols": {
+    "description": "Xem danh sách các cặp giao dịch được hỗ trợ.",
+    "usage": "!symbols",
+    "example": ""
+  },
+  "help": {
+    "description": "Xem hướng dẫn cho các lệnh của bot.",
+    "usage": "!help [command]",
+    "example": "!help hoặc !help chart"
+  }
+}
