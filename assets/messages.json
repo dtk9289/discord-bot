@@ -1,0 +1,6 @@
+{
+  "invalid_syntax": "Cú pháp không đúng.",
+  "invalid_argument": "Tham số không hợp lệ.",
+  "invalid_command": "Lệnh không hợp lệ, vui lòng sử dụng !help để xem hướng dẫn.",
+  "retrieving_data_error": "Có lỗi khi truy xuất dữ liệu."
+}

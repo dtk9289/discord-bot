@@ -9,7 +9,7 @@ import services
 import utils
 import visualizers
 
-BOT_TOKEN = "MTEyMjM5MjQyNTE2ODY1NDM2MA.Ggurfe.gEIsNmoXdppluapm63omkC0Brw9hsqPggEWpzc"
+BOT_TOKEN = "MTEyMjM5MjQyNTE2ODY1NDM2MA.GbYROU.vVGfMiZwfEaQ0SsC_LatLxTKJhHEW3qIcUJ5Jo"
 
 bot = Bot(command_prefix="!", help_command=None, intents=Intents.all())
 
@@ -43,6 +43,10 @@ async def on_command_error(context: Context, error):
 
 
 # tên hàm tương ứng với tên lệnh khi người dùng nhập vào
+@bot.command()
+async def print_tasks(context: Context):
+    for task in background_tasks:
+        print(task)
 
 
 @bot.command()
